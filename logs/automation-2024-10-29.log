@@ -1,0 +1,38 @@
+22:29:17.297 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:29:17.302 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:29:17.303 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:29:17.311 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+22:29:17.320 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:29:17.321 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:29:17.321 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:29:17.326 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+22:29:17.334 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:29:17.335 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:29:17.336 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:29:17.342 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+22:29:17.350 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:29:17.351 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:29:17.351 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:29:17.355 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+22:29:17.361 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:29:17.362 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:29:17.362 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:29:17.369 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+22:29:17.376 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:29:17.377 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:29:17.377 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:29:17.381 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+22:29:51.306 [main] INFO  testCases.RegistrationTest - *****test started for registration test case*******
+22:29:52.112 [main] INFO  testCases.RegistrationTest - *****clicked on register*******
+22:34:52.088 [TestNG-tests-1] INFO  testCases.RegistrationTest - *****test started for registration test case*******
+22:34:52.877 [TestNG-tests-1] INFO  testCases.RegistrationTest - *****clicked on register*******
+22:36:10.331 [TestNG-tests-1] INFO  testCases.RegistrationTest - *****test started for registration test case*******
+22:36:11.676 [TestNG-tests-1] INFO  testCases.RegistrationTest - *****clicked on register*******
+22:36:15.705 [TestNG-tests-2] INFO  testCases.RegistrationTest - *****test started for registration test case*******
+22:37:07.442 [TestNG-tests-2] INFO  testCases.RegistrationTest - *****test started for registration test case*******
+22:37:07.574 [TestNG-tests-1] INFO  testCases.RegistrationTest - *****test started for registration test case*******
+22:37:08.410 [TestNG-tests-2] INFO  testCases.RegistrationTest - *****clicked on register*******
+22:37:09.046 [TestNG-tests-1] INFO  testCases.RegistrationTest - *****clicked on register*******
+22:40:52.237 [TestNG-tests-2] INFO  testCases.RegistrationTest - *****test started for registration test case*******
+22:40:52.611 [TestNG-tests-1] INFO  testCases.RegistrationTest - *****test started for registration test case*******
+22:42:33.419 [TestNG-tests-1] INFO  testCases.RegistrationTest - *****test started for registration test case*******

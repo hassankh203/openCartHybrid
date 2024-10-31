@@ -1,0 +1,31 @@
+22:42:33.905 [TestNG-tests-2] INFO  testCases.RegistrationTest - *****test started for registration test case*******
+22:44:31.860 [TestNG-tests-1] INFO  testCases.RegistrationTest - *****test started for registration test case*******
+22:44:32.657 [TestNG-tests-1] INFO  testCases.RegistrationTest - *****clicked on register*******
+22:45:08.942 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\hassa\OneDrive\Desktop\eclipsWorkSpace\Hybrid FrameWork\openCartHybridFramework\parallelTestng.xml"
+22:45:13.942 [TestNG-tests-1] INFO  testCases.RegistrationTest - *****test started for registration test case*******
+22:45:14.731 [TestNG-tests-1] INFO  testCases.RegistrationTest - *****clicked on register*******
+22:46:08.637 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\hassa\OneDrive\Desktop\eclipsWorkSpace\Hybrid FrameWork\openCartHybridFramework\parallelTestng.xml"
+22:46:13.444 [TestNG-tests-1] INFO  testCases.RegistrationTest - *****test started for registration test case*******
+22:46:14.209 [TestNG-tests-1] INFO  testCases.RegistrationTest - *****clicked on register*******
+22:48:05.863 [TestNG-tests-1] INFO  testCases.RegistrationTest - *****test started for registration test case*******
+22:48:06.991 [TestNG-tests-1] INFO  testCases.RegistrationTest - *****clicked on register*******
+22:48:26.111 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\hassa\OneDrive\Desktop\eclipsWorkSpace\Hybrid FrameWork\openCartHybridFramework\parallelTestng.xml"
+22:48:26.212 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\hassa\OneDrive\Desktop\eclipsWorkSpace\Hybrid FrameWork\openCartHybridFramework\testng.xml"
+22:48:26.226 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : utilities.ExtentReportManager
+22:48:31.877 [TestNG-tests-1] INFO  testCases.RegistrationTest - *****test started for registration test case*******
+22:48:32.918 [TestNG-tests-1] INFO  testCases.RegistrationTest - *****clicked on register*******
+22:57:25.089 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\hassa\OneDrive\Desktop\eclipsWorkSpace\Hybrid FrameWork\openCartHybridFramework\parallelTestng.xml"
+22:57:25.149 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\hassa\OneDrive\Desktop\eclipsWorkSpace\Hybrid FrameWork\openCartHybridFramework\testng.xml"
+22:57:25.160 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : utilities.ExtentReportManager
+22:57:30.461 [TestNG-tests-1] INFO  testCases.RegistrationTest - *****test started for registration test case*******
+22:57:31.262 [TestNG-tests-1] INFO  testCases.RegistrationTest - *****clicked on register*******
+23:17:46.396 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\hassa\OneDrive\Desktop\eclipsWorkSpace\Hybrid FrameWork\openCartHybridFramework\parallelTestng.xml"
+23:17:46.453 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\hassa\OneDrive\Desktop\eclipsWorkSpace\Hybrid FrameWork\openCartHybridFramework\testng.xml"
+23:17:46.464 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : utilities.ExtentReportManager
+23:17:52.047 [TestNG-tests-1] INFO  testCases.RegistrationTest - *****test started for registration test case*******
+23:17:52.848 [TestNG-tests-1] INFO  testCases.RegistrationTest - *****clicked on register*******
+23:18:27.894 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\hassa\OneDrive\Desktop\eclipsWorkSpace\Hybrid FrameWork\openCartHybridFramework\parallelTestng.xml"
+23:18:27.967 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\hassa\OneDrive\Desktop\eclipsWorkSpace\Hybrid FrameWork\openCartHybridFramework\testng.xml"
+23:18:27.979 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : utilities.ExtentReportManager
+23:18:32.605 [TestNG-tests-1] INFO  testCases.RegistrationTest - *****test started for registration test case*******
+23:18:33.389 [TestNG-tests-1] INFO  testCases.RegistrationTest - *****clicked on register*******

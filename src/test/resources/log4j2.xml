@@ -1,0 +1,30 @@
+<Configuration>
+	<Properties>
+		<!-- here we specify the path of logs the folder where the files will be 
+			stored -->
+		<Property name="basePath">./logs</Property>
+	</Properties>
+	<!-- where to output the log ?==> console and in a file -->
+	<Appenders>
+		<Console name="Console" target="SYSTEM_OUT">
+			<PatternLayout
+				pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n" />
+		</Console>
+		<RollingFile name="File"
+			fileName="${basePath}/automation.log"
+			filePattern="${basePath}/automation-%d{yyyy-MM-dd}.log">
+			<PatternLayout
+				pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n" />
+			<SizeBasedTriggeringPolicy size="5000" />
+		</RollingFile>
+	</Appenders>
+	<!-- type of log ...level of log and where log will be generated -->
+	<Loggers>
+		<Root level="Debug">
+			<!-- Here you can use multiple log levels All < Trace < Debug < Info < 
+				Warn < Error < Fatal < Off -->
+			<AppenderRef ref="File" />
+			<!-- <AppenderRef ref="Console"/> -->
+		</Root>
+	</Loggers>
+</Configuration>
